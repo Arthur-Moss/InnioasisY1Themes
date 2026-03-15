@@ -48,6 +48,7 @@ Custom:
 ```json
 "desktopMask": "mask.png",
 "settingMask": "setting_mask.png"
+```
 
 ## ⚠️ Known Limitations
 
