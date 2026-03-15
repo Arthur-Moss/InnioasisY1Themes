@@ -9,6 +9,30 @@
             "authorUrl": "https://github.com/Arthur-Moss"
         },
         {
+            "name": "1G Fallout Pip-Boy",
+            "folder": "1GFalloutPip-Boy",
+            "screenshot": "./1GFalloutPip-Boy/screenshot.gif",
+            "description": "This theme is inspired by the Pip-boy from the Fallout 3 game.",
+            "author": "Arthur_Moss",
+            "authorUrl": "https://github.com/Arthur-Moss"
+        },
+        {
+            "name": "1P Fallout Pip-Boy",
+            "folder": "1PFalloutPip-Boy",
+            "screenshot": "./1PFalloutPip-Boy/screenshot.gif",
+            "description": "This theme is inspired by the Pip-boy from the Fallout 3 game.",
+            "author": "Arthur_Moss",
+            "authorUrl": "https://github.com/Arthur-Moss"
+        },
+        {
+            "name": "1M Fallout Pip-Boy",
+            "folder": "1MFalloutPip-Boy",
+            "screenshot": "./1MFalloutPip-Boy/screenshot.gif",
+            "description": "This theme is inspired by the Pip-boy from the Fallout 3 game.",
+            "author": "Arthur_Moss",
+            "authorUrl": "https://github.com/Arthur-Moss"
+        },
+        {
             "name": "Aero",
             "folder": "Aero",
             "screenshot": "./Aero/screenshot.jpg",
