@@ -1,6 +1,14 @@
 {
     "themes": [
         {
+            "name": "TVA Classic",
+            "folder": "TVAClassic",
+            "screenshot": "./TVAClassic/screenshot.gif",
+            "description": "This theme is inspired by the TVA TimePad and Miss Minutes from Loki series.",
+            "author": "Arthur_Moss",
+            "authorUrl": "https://github.com/Arthur-Moss"
+        },
+        {
             "name": "1Y Fallout Pip-Boy",
             "folder": "1YFalloutPip-Boy",
             "screenshot": "./1YFalloutPip-Boy/screenshot.gif",
