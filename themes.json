@@ -1,9 +1,17 @@
 {
     "themes": [
         {
+            "name": "TVA AmberMono",
+            "folder": "TVAAmberMono",
+            "screenshot": "./TVA AmberMono/screenshot0.gif",
+            "description": "This theme is inspired by the TVA TimePad and Miss Minutes from Loki series.",
+            "author": "Arthur_Moss",
+            "authorUrl": "https://github.com/Arthur-Moss"
+        },
+        {
             "name": "TVA Classic",
             "folder": "TVAClassic",
-            "screenshot": "./TVAClassic/screenshot.gif",
+            "screenshot": "./TVAClassic/screenshot0.gif",
             "description": "This theme is inspired by the TVA TimePad and Miss Minutes from Loki series.",
             "author": "Arthur_Moss",
             "authorUrl": "https://github.com/Arthur-Moss"
