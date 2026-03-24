@@ -22,7 +22,7 @@ Available color schemes: **Classic(this)** and **Amber monochrome**.
 ## 🖼️ Screenshots
 
 ![Loki Classic Theme Demo Home](screenshot0.gif)
-![Loki Classic Theme Demo Settings](screenshot0.gif)
+![Loki Classic Theme Demo Settings](screenshot1.gif)
 
 ## 🎨 Custom
 
