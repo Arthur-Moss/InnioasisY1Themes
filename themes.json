@@ -1,6 +1,38 @@
 {
     "themes": [
         {
+            "name": "1RP Fallout Pip-Boy",
+            "folder": "1RPFalloutPip-Boy",
+            "screenshot": "./1RPFalloutPip-Boy/screenshot-0.png",
+            "description": "This theme is inspired by the Pip-boy from the Fallout 3 game. It's the reverse theme of the 1P Pip-Boy",
+            "author": "Arthur_Moss",
+            "authorUrl": "https://github.com/Arthur-Moss"
+        },
+        {
+            "name": "1RM Fallout Pip-Boy",
+            "folder": "1RMFalloutPip-Boy",
+            "screenshot": "./1RMFalloutPip-Boy/screenshot-0.png",
+            "description": "This theme is inspired by the Pip-boy from the Fallout 3 game. It's the reverse theme of the 1M Pip-Boy",
+            "author": "Arthur_Moss",
+            "authorUrl": "https://github.com/Arthur-Moss"
+        },
+        {
+            "name": "1RY Fallout Pip-Boy",
+            "folder": "1RYFalloutPip-Boy",
+            "screenshot": "./1RYFalloutPip-Boy/screenshot-0.png",
+            "description": "This theme is inspired by the Pip-boy from the Fallout: New Vegas game. It's the reverse theme of the 1Y Pip-Boy",
+            "author": "Arthur_Moss",
+            "authorUrl": "https://github.com/Arthur-Moss"
+        },
+        {
+            "name": "1RG Fallout Pip-Boy",
+            "folder": "1RGFalloutPip-Boy",
+            "screenshot": "./1RGFalloutPip-Boy/screenshot-0.png",
+            "description": "This theme is inspired by the Pip-boy from the Fallout 3 game. It's the reverse theme of the 1G Pip-Boy",
+            "author": "Arthur_Moss",
+            "authorUrl": "https://github.com/Arthur-Moss"
+        },
+        {
             "name": "TVA AmberMono",
             "folder": "TVAAmberMono",
             "screenshot": "./TVA AmberMono/screenshot0.gif",
